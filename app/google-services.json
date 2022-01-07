@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728671716231",
+    "project_id": "chat-program-4b9df",
+    "storage_bucket": "chat-program-4b9df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728671716231:android:5b042668a0fa09185cc922",
+        "android_client_info": {
+          "package_name": "com.itproger.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728671716231-du8rcmt3mqq6368i5q13oo1ntlftvl1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4_1H2QkWL7TSQwlNXWqIBeGzuPOTPwb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728671716231-du8rcmt3mqq6368i5q13oo1ntlftvl1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
